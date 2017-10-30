@@ -1,4 +1,4 @@
-# GitBox
+# GitBox- Tutorial 
 * Inspired from [Git-Sandbox](https://github.com/AGV-IIT-KGP/git-sandbox)
 * This Tutorial is written in Markdown.
 
